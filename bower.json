@@ -1,12 +1,12 @@
 {
-  "name": "angular2-to-do",
-  "description": "",
-  "main": "",
+  "name": "project",
+  "description": "project",
+  "main": "index.js",
   "authors": [
-    "JordLoop <Jordloop@gmail.com>"
+    "JordLoop <JordLoop@gmail.com>"
   ],
-  "license": "MIT",
-  "homepage": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Jordloop/Angular-To-Do",
   "ignore": [
     "**/.*",
     "node_modules",
